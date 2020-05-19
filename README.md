@@ -1,17 +1,15 @@
 # Project Title
 
-UPSCALEPICS API
+**UPSCALEPICS API**
 
 
 ### Prerequisites
 
-A)Tensorflow >2.0
-B)Open CV
-C)Python3
+* A)Tensorflow >2.0
+* B)Open CV
+* C)Python3
 
-```
-Give examples
-```
+
 
 ### Installing
 
@@ -79,7 +77,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Anuj Agrawal
+* Mukesh Babu
+* Gyanendra Dubey
 
